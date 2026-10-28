@@ -13,6 +13,11 @@ npm install
 npm run dev      # open http://localhost:3000
 ```
 
+## Documents
+- [INTERVIEW](docs/INTERVIEW.md)
+- [TESTING](docs/TESTING.md)
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
